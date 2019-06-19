@@ -1,6 +1,6 @@
 ## The python script challenge.py allows users to convert temperature and volume
 
-### Temprature can be converted between kelvin, celsius , fahrenheit and rankine
+### Temperature can be converted between kelvin, celsius , fahrenheit and rankine
 
 ### Volumes can be converted between liters , tablespoons , cubic-inches, cups , cubic-feet and gallons
 
