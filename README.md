@@ -5,7 +5,7 @@
 ### Volumes can be converted between liters , tablespoons , cubic-inches, cups , cubic-feet and gallons
 
 
-### Here's how to use the scirpt to convert temperature:
+### Here's how to use the script to convert temperature:
 
 ```
 1.python3 challenge.py
@@ -26,7 +26,7 @@
 #### If the student's answer was not right, the returned value from the script will be "incorrect correct answer is xxx"
 #### If the student's answer was not a numberic number, the returned value from the script will be "invalid"
 
-### Here's how to use the scirpt to convert volume:
+### Here's how to use the script to convert volume:
 
 ```
 1.python3 challenge.py
